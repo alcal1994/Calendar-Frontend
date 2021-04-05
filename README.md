@@ -1,5 +1,8 @@
-### `Ensure Calendar-Backend is running prior to running this application`
-### `clone the repo`
-### `Use command npm install`
-### `Use command npm start`
-### `navigate to localhost:3000`
+### Project setup
+***
+* Ensure Calendar-Backend is running prior to running this application
+* Clone this project repo
+* Run command npm install
+* Run command npm start
+* Navigate to localhost:3000
+***
